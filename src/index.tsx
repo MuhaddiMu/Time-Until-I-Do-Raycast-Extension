@@ -39,7 +39,9 @@ export default function TimeUntil() {
 
   const countdownCopy = () => {
     return (
-      "# Time Until " + bigDayName +" ⏱\n\n" +
+      "# Time Until " +
+      bigDayName +
+      " ⏱\n\n" +
       "🎉 Only " +
       yearsUntil +
       " year(s) until the big event!\n\n" +
@@ -90,7 +92,7 @@ export default function TimeUntil() {
 
   return (
     <Detail
-      markdown={countdownCopy() + "\n" + "\n\n" + quote} // + FocusPoint() 
+      markdown={countdownCopy() + "\n" + "\n\n" + quote} // + FocusPoint()
       actions={
         <ActionPanel>
           <Action title="⚙️ Open Extension Preferences" onAction={openExtensionPreferences} />
@@ -98,4 +100,4 @@ export default function TimeUntil() {
       }
     />
   );
-}  
+}
