@@ -11,8 +11,9 @@
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/MuhaddiMu/Time-Until-I-Do-Raycast-Extension/blob/main/metadata/time-until-i-do-1.png?raw=true)
+![Screenshot 2](https://github.com/MuhaddiMu/Time-Until-I-Do-Raycast-Extension/blob/main/metadata/time-until-i-do-2.png?raw=true)
+![Screenshot 3](https://github.com/MuhaddiMu/Time-Until-I-Do-Raycast-Extension/blob/main/metadata/time-until-i-do-3.png?raw=true)
 
 ## Preferences
 
